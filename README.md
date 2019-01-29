@@ -1,2 +1,3 @@
 # sub_apps
-unitary programs, mostly for my own use
+
+A collection of small or unitary programs, mostly for my own use
