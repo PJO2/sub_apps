@@ -21,9 +21,9 @@
 
 IP_BASE = "11.0.0.1"          # first /32 to be advertised
 
-LOCAL_AS  = "65001"           # bird AS number
-REMOTE_AS = "65002"           # AS of remote peer
-REMOTE_IP = "172.16.63.230"   # IP of remote peer
+LOCAL_AS  = "65000"           # bird AS number
+REMOTE_AS = "65001"           # AS of remote peer
+REMOTE_IP = "192.2.0.1"       # IP of remote peer
 
 # do not change
 # ------------------------------------------------------
